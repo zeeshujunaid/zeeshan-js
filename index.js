@@ -48,3 +48,9 @@
 //     return num % 10 === 0 ? true  : false;    
 // }
 // console.log(boleannumber(25));
+
+
+// recursive functon
+function submit(){
+
+}
